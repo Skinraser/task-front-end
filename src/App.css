@@ -6,7 +6,19 @@
   height: 40vmin;
   pointer-events: none;
 }
+a {
+  color: #0366d6;
+}
 
+code {
+  color: #E01A76;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
